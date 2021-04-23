@@ -8,8 +8,7 @@
         <PackageProjectUrl>https://github.com/system-diagnostics-logger-trace-listener</PackageProjectUrl>
         <PackageLicenseUrl></PackageLicenseUrl>
         <RepositoryUrl>https://github.com/Georgy-Losenkov/system-diagnostics-logger-trace-listener.git</RepositoryUrl>
-        <PackageLicenseExpression>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseExpression>
-        <PackageLicenseFile></PackageLicenseFile>
+        <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
         <RepositoryType>git</RepositoryType>
         <SignAssembly>false</SignAssembly>
     </PropertyGroup>
