@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D4AACA3B-0771-494D-8E87-944F73858DA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D54B2A6-E1D8-41D5-B1FA-AD16312D1F3F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Diagnostics.LoggerTraceListener", "src\System.Diagnostics.LoggerTraceListener\System.Diagnostics.LoggerTraceListener.csproj", "{4B3F5500-F63D-4C49-972C-72E10652B22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B3F5500-F63D-4C49-972C-72E10652B22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3F5500-F63D-4C49-972C-72E10652B22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3F5500-F63D-4C49-972C-72E10652B22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3F5500-F63D-4C49-972C-72E10652B22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4B3F5500-F63D-4C49-972C-72E10652B22C} = {D4AACA3B-0771-494D-8E87-944F73858DA2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A67D651-4F79-4BC1-A5FC-DE383DCFFDD6}
+	EndGlobalSection
+EndGlobal
